@@ -1,0 +1,74 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# IFA展业中文输入词库 v0.1
+# 港险术语、产品名、展业话术，打字直接上屏。
+# 词条来自一线 IFA 日常展业真实用语，持续补充。
+---
+name: ifa
+version: "2026.10.19"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+标保	biao bao	1000
+保证	bao zheng	900
+非保证	fei bao zheng	900
+盛利II至尊	sheng li er zhi zun	900
+趸交	dun jiao	800
+缴费年期	jiao fei nian qi	800
+分红实现率	fen hong shi xian lv	800
+保诚	bao cheng	800
+友邦	you bang	800
+安盛	an sheng	800
+宏利	hong li	800
+保监局	bao jian ju	800
+MPF	mpf	800
+复归红利	fu gui hong li	700
+终期红利	zhong qi hong li	700
+保证现金价值	bao zheng xian jin jia zhi	700
+总现金价值	zong xian jin jia zhi	700
+核保	he bao	700
+受保人	shou bao ren	700
+保单持有人	bao dan chi you ren	700
+受益人	shou yi ren	700
+鹰宇保险经纪	ying yu bao xian jing ji	700
+强积金	qiang ji jin	700
+CRS	crs	700
+在港签单	zai gang qian dan	700
+高端医疗	gao duan yi liao	700
+危疾	wei ji	700
+储蓄分红险	chu xu fen hong xian	700
+教育金	jiao yu jin	700
+年金	nian jin	700
+预期回报率	yu qi hui bao lv	600
+身故赔偿	shen gu pei chang	600
+等待期	deng dai qi	600
+退保	tui bao	600
+冷静期	leng jing qi	600
+保联	bao lian	600
+AIA優悅年金	aia you yue nian jin	600
+富卫危疾全应援	fu wei wei ji quan ying yuan	600
+周大福人寿	zhou da fu ren shou	600
+Keen Eagle	keen eagle	600
+赴港签单	fu gang qian dan	600
+跨境规划	kua jing gui hua	600
+美元资产	mei yuan zi chan	600
+长期业务	chang qi ye wu	600
+VHIS	vhis	600
+自愿医保	zi yuan yi bao	600
+财富传承	cai fu chuan cheng	600
+IRR	irr	500
+不保事项	bu bao shi xiang	500
+保单贷款	bao dan dai kuan	500
+保费融资	bao fei rong zi	500
+QDAP	qdap	500
+合资格延期年金保单	he zi ge yan qi nian jin bao dan	500
+外汇额度	wai hui e du	500
+反向筛选	fan xiang shai xuan	500
+标保算法	biao bao suan fa	500
+业务代表	ye wu dai biao	500
+离岸信托	li an xin tuo	500
+Technical Representative	technical representative	400
+Insurance Authority	insurance authority	400
+先算边界再销售	xian suan bian jie zai xiao shou	400
