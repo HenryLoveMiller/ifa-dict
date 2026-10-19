@@ -8,11 +8,11 @@ v0.1 共 61 条，词条来自真实展业用语，每周五更新。免费开�
 
 ## 文件
 
-- `ifa.dict.yaml` — Rime 格式词库（词条、拼音码、词频）
-- `dicts/ifa-circle-trad.dict.yaml` — IFA 圈层术语（繁体，131 条，待并入）
-- `dicts/ifa-circle-simp.dict.yaml` — IFA 圈层术语（简体，131 条，待并入）
+- `ifa.dict.yaml` — 展业实战词库（61 条，Rime 格式）
+- `dicts/ifa-circle-trad.dict.yaml` — IFA 圈层术语（繁体，133 条，Rime 格式）
+- `dicts/ifa-circle-simp.dict.yaml` — IFA 圈层术语（简体，132 条，Rime 格式）
 
-📖 在线版《港险 IFA 术语词典》（可搜索、带释义）正在制作，基于 131 条术语释义底稿，上线后在这里放链接。
+📖 在线版《港险 IFA 术语词典》（131 条，可搜索、中英对照、带释义）：https://pages.liaozh.top/ifa-shuyu-cidian-20261019.html
 
 ## 用法
 
