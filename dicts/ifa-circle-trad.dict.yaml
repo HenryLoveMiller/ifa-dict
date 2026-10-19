@@ -1,0 +1,145 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# IFA 圈层术语词库（繁体）
+# 来源: IFA.csv 底稿，共 131 条输入，133 条入库
+# 权重按原 weight 映射: 7->700 / 5->500 / 4->400；中英混排条已拆分；与 ifa.dict.yaml 重复词已去重
+---
+name: ifa-circle-trad
+version: "2026.10.19"
+sort: by_weight
+use_preset_vocabulary: false
+...
+ZUU	zuu	700
+資遇數金	zi yu shu jin	500
+新灣	xin wan	700
+灣區國際	wan qu guo ji	500
+iFAST	ifast	500
+GBA EverBest	gbaeverbest	400
+IFA	ifa	700
+Independent Financial Advisor	independentfinancialadvisor	700
+獨立理財顧問	du li li cai gu wen	700
+RIHA	riha	700
+Registered Investment Advisor Hong Kong	registeredinvestmentadvisorhongkong	700
+獨立投資顧問	du li tou zi gu wen	700
+平臺	ping tai	700
+IFA Platform	ifaplatform	700
+多公司代理	duo gong si dai li	700
+Multi-Tie	multi-tie	700
+Multi-Carrier	multi-carrier	700
+獨立代理	du li dai li	700
+Independent Agent	independentagent	700
+Best Interest Duty	bestinterestduty	700
+客戶最佳利益原則	ke hu zui jia li yi yuan ze	700
+受信責任	shou xin ze ren	700
+Fiduciary Duty	fiduciaryduty	700
+Suitability	suitability	700
+合適性	he shi xing	700
+適當性評估	shi dang xing ping gu	700
+Know Your Client	knowyourclient	700
+KYC	kyc	700
+了解你的客戶	liao jie ni de ke hu	700
+Risk Profile	riskprofile	700
+風險畫像	feng xian hua xiang	700
+風險偏好	feng xian pian hao	700
+Risk Tolerance	risktolerance	700
+風險承受度	feng xian cheng shou du	700
+Risk Capacity	riskcapacity	700
+風險承受力	feng xian cheng shou li	700
+Investment Horizon	investmenthorizon	700
+投資期	tou zi qi	700
+Goal-Based Planning	goal-basedplanning	700
+目標導向規劃	mu biao dao xiang gui hua	700
+Holistic Financial Planning	holisticfinancialplanning	700
+全方位理財規劃	quan fang wei li cai gui hua	700
+Wealth Planning	wealthplanning	700
+財富規劃	cai fu gui hua	700
+Retirement Planning	retirementplanning	700
+退休規劃	tui xiu gui hua	700
+Estate Planning	estateplanning	700
+遺產規劃	yi chan gui hua	700
+Tax Planning	taxplanning	700
+稅務規劃	shui wu gui hua	700
+Education Planning	educationplanning	700
+教育規劃	jiao yu gui hua	700
+Insurance Planning	insuranceplanning	700
+保險規劃	bao xian gui hua	700
+Asset Allocation	assetallocation	700
+資產配置	zi chan pei zhi	700
+Strategic Asset Allocation	strategicassetallocation	700
+戰略資產配置	zhan lve zi chan pei zhi	700
+Tactical Asset Allocation	tacticalassetallocation	700
+戰術資產配置	zhan shu zi chan pei zhi	700
+Diversification	diversification	700
+分散投資	fen san tou zi	700
+Rebalancing	rebalancing	700
+再平衡	zai ping heng	700
+Portfolio	portfolio	700
+投資組合	tou zi zu he	700
+Model Portfolio	modelportfolio	700
+投資組合模型	tou zi zu he mo xing	700
+Discretionary Account	discretionaryaccount	700
+全權委託帳戶	quan quan wei tuo zhang hu	700
+Advisory Account	advisoryaccount	700
+顧問帳戶	gu wen zhang hu	700
+Execution-Only	execution-only	700
+僅執行帳戶	jin zhi xing zhang hu	700
+Fee-Based Advisory	fee-basedadvisory	700
+收費顧問	shou fei gu wen	700
+Commission-Based	commission-based	700
+佣金制	yong jin zhi	700
+Wrap Fee	wrapfee	700
+綜合服務費	zong he fu wu fei	700
+AUM	aum	700
+Assets Under Management	assetsundermanagement	700
+管理資產規模	guan li zi chan gui mo	700
+Recurring Revenue	recurringrevenue	700
+經常性收入	jing chang xing shou ru	700
+Trail Commission	trailcommission	700
+尾隨佣金	wei sui yong jin	700
+Fund Platform	fundplatform	700
+基金平臺	ji jin ping tai	700
+Wrap Account	wrapaccount	700
+綜合帳戶	zong he zhang hu	700
+Nominee	nominee	700
+代理人持股	dai li ren chi gu	700
+Custody	custody	700
+保管	bao guan	700
+投資相連壽險	tou zi xiang lian shou xian	700
+ILAS	ilas	700
+強積金	qiang ji jin	700
+一般保險	yi ban bao xian	700
+GI	gi	700
+財險	cai xian	700
+人壽保險	ren shou bao xian	700
+健康保險	jian kang bao xian	700
+基金	ji jin	700
+單位信託	dan wei xin tuo	700
+債券	zhai quan	700
+股票	gu piao	700
+港股	gang gu	700
+美股	mei gu	700
+ETF	etf	700
+交易所買賣基金	jiao yi suo mai mai ji jin	700
+REITs	reits	700
+房地產信託	fang di chan xin tuo	700
+結構化產品	jie gou hua chan pin	700
+衍生工具	yan sheng gong ju	700
+Derivatives	derivatives	700
+私募基金	si mu ji jin	700
+Private Equity	privateequity	700
+對衝基金	dui chong ji jin	700
+Hedge Fund	hedgefund	700
+房地產	fang di chan	700
+Real Estate	realestate	700
+海外資產配置	hai wai zi chan pei zhi	700
+離岸資產	li an zi chan	700
+Offshore	offshore	700
+跨境理財	kua jing li cai	700
+家族辦公室	jia zu ban gong shi	700
+Family Office	familyoffice	700
+信託	xin tuo	700
+Trust	trust	700
+保險金信託	bao xian jin xin tuo	700
+慈善信託	ci shan xin tuo	700
+Charitable Trust	charitabletrust	700
